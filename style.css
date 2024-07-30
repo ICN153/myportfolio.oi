@@ -67,6 +67,8 @@ p{
 
 .perfil{
     margin-bottom: 65px;
+    width: 120px;
+    border-radius: 50%;
 }
 
 .social{
